@@ -1,0 +1,6 @@
+# Ignore model files and temp
+*.h5
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
