@@ -106,7 +106,7 @@ Access to Google Colab for model training (optional, if using the provided noteb
 ## Installation
 
 1) Clone the repository:
-git clone https://github.com/yourusername/speech-command-recognition.git
+git clone https://github.com/mostafaamohameddd/speech-command-recognition.git
 cd speech-command-recognition
 
 2) Create a virtual environment
