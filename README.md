@@ -38,17 +38,6 @@ Project Structure
 
 
 
-Contributing
-
-
-
-License
-
-
-
-Acknowledgments
-
-
 ## Features
 
 
