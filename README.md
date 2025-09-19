@@ -77,7 +77,7 @@ Cross-Platform: Tested on Windows, macOS, and Linux (requires microphone access)
 ## Demo
 Here's a quick simulation of the output:
 
-🕒 Get ready... Recording will start in 3 seconds
+ Get ready... Recording will start in 3 seconds
 3...
 2...
 1...   Start speaking NOW!
